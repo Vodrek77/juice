@@ -1,0 +1,24 @@
+# Soul Loop
+
+**Team Members:** Ryan George (@Vodrek77)
+
+**How would you pitch your game in one line?**
+Speedrun through a puzzle platformer where each of your past attempts can come to help or haunt you.
+
+**What is the key mechanic(s) that make it fun?**
+Each level may/will not be able to be completed with just one run-through, for example, you may have to hold a button to open a door, but leaving the button will close the door. Upon resetting,
+a copy of your previous run will be played back, interacting with objects, such as the button, allowing your second attempt to pass through. Each of these "souls" will also have small,
+additional abilities to change up the gameplay.
+
+**How does the game actually play? (Core Game Loop)**
+There will be a set amount of levels to play, that players will navigate through. Each level will have a different concept or combination of concepts that make them unique and difficult to
+solve. The player will then attempt the level using the loop mechanic and souls. Upon completing a level, their time is tracked and serves as a goal to beat (for replay value), and a 
+scoreboard *may* also be implemented to encourage this. Players can replay levels and choose different souls/abilities to try and optimize their times.
+
+**How will you keep players engaged for 30 minutes? What's the general scope of your game (will change as you go)?**
+The goal is that the original playthrough will take a bit of time as it is a puzzle platformer. After that, the goal is that the players will want to get better times and optimize their 
+runs, adding more engagement and gameplay time. I'm not completely sure of the scope yet, however, my goal is to release a playtest with 5-10 levels, and up to 10 souls somewhere during the 
+jam to gauge how much more to add as well as what systems to improve.
+
+I have a bit of experience with Unity already, and I hope to learn more through this. I know the system will be complicated to integrate, but that's what makes it fun, and who doesn't love 
+complex coding problems... I know I sure do :)
